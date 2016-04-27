@@ -1,0 +1,18 @@
+[SddmGreeterTheme]
+Name=Andromeda
+Name[x-test]=xxAndromedaxx
+Description=Andromeda Theme
+Description[x-test]=xxAnromeda Themexx
+Author=David Linares (Mcder3)
+Copyright=(c) 2016, David Edmundson, David Linares (Mcder3)
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0.0
+Website=https://github.com/manjaro/artwork-andromeda
+Screenshot=Andromeda.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=mcder3@gmail.com
+Theme-Id=andromeda
+Theme-API=2.0
