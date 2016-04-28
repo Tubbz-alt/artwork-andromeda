@@ -34,14 +34,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1046"
+     inkscape:window-height="1007"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="123.67016"
-     inkscape:cy="93.358639"
+     inkscape:cx="69.297279"
+     inkscape:cy="245.22305"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -90,7 +90,7 @@
      class="ColorScheme-ButtonText"
      id="rect4240" />
   <path
-     style="fill:currentColor;fill-opacity:1;stroke:none"
+     style="fill:#ececec;fill-opacity:1;stroke:none"
      d="m 16,12 224,0 c 2.216,0 4,1.784 4,4 l 0,224 c 0,2.216 -1.784,4 -4,4 l -224,0 c -2.216,0 -4,-1.784 -4,-4 L 12,16 c 0,-2.216 1.784,-4 4,-4 z"
      class="ColorScheme-Background"
      id="rect4238" />
