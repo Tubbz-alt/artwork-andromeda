@@ -13,8 +13,7 @@ endif(WIN32)
 
 ########### install files ###############
 
-set( andromeda_icon_dirs  actions apps categories devices emblems extras mimetypes places status)
-
+set( andromeda_icon_dirs  actions applets apps categories devices emblems emotes mimetypes places status)
 
 set(ANDROMEDA_INSTALL_DIR ${ICON_INSTALL_DIR}/andromeda)
 install( DIRECTORY ${andromeda_icon_dirs} DESTINATION ${ANDROMEDA_INSTALL_DIR} PATTERN "*.sh" EXCLUDE )
