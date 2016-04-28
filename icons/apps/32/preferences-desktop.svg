@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   version="1.1"
+   height="32"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="preferences-desktop.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     id="namedview56"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="28.471979"
+     inkscape:cy="12.745905"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4184" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4219"
+       id="linearGradient4463"
+       y1="21.999729"
+       y2="8"
+       x2="0"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4219">
+      <stop
+         style="stop-color:#c3ced7"
+         id="stop4221" />
+      <stop
+         offset="1"
+         style="stop-color:#e2f4f4"
+         id="stop4223" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4410"
+       id="linearGradient4473"
+       y1="7.999729"
+       x1="9"
+       y2="21.999729"
+       x2="23"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4410">
+      <stop
+         style="stop-color:#383e51"
+         id="stop4412" />
+      <stop
+         offset="1"
+         style="stop-color:#655c6f;stop-opacity:0"
+         id="stop4414" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4697"
+       id="linearGradient4703"
+       y1="497.95383"
+       x1="422.07144"
+       y2="536.52533"
+       x2="422.07144"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.91666628,0,0,0.91666628,-340.52366,-455.81464)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4697">
+      <stop
+         style="stop-color:#52b2ee;stop-opacity:1"
+         id="stop4699" />
+      <stop
+         offset="1"
+         style="stop-color:#1abc9c;stop-opacity:1"
+         id="stop4701" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1 0 0 1 -384.57143 -515.798)">
+    <g
+       id="g4578"
+       transform="matrix(0.66666636,0,0,0.85555436,128.19059,86.771444)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient4703)"
+         id="path4589"
+         d="M 12,6 12,36 56,36 56,6 12,6 Z"
+         transform="matrix(1.0909096,0,0,1.0909096,371.48052,497.25255)" />
+    </g>
+    <flowRoot
+       line-height="125%"
+       style="font-size:10;font-family:sans-serif"
+       id="flowRoot4170"
+       transform="matrix(1 0 0 1 389.57143 520.79803)">
+      <flowRegion
+         id="flowRegion4172">
+        <rect
+           width="27"
+           x="22"
+           y="3"
+           height="15"
+           id="rect4174" />
+      </flowRegion>
+      <flowPara
+         id="flowPara4176">Plasm</flowPara>
+    </flowRoot>
+    <g
+       id="g4783"
+       transform="matrix(1 0 0 1 0 -0.00005)">
+      <rect
+         width="31.999952"
+         x="384.57144"
+         y="541.7981"
+         height="3.999968"
+         style="fill:#ffffff;fill-opacity:0.784314"
+         id="rect4267-7" />
+      <circle
+         cx="414.57144"
+         cy="543.79797"
+         style="fill:#4d4d4d"
+         r="1"
+         id="path4166" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d"
+         id="rect4183"
+         d="m 2,27 0,1 1,0 0,-1 -1,0 z m 1,1 0,1 1,0 0,-1 -1,0 z"
+         transform="matrix(1 0 0 1 384.57143 515.798)" />
+    </g>
+    <path
+       style="fill:url(#linearGradient4473);opacity:0.2;fill-rule:evenodd"
+       id="path4463"
+       d="M 23 10 L 23 11 L 9 11 L 18 20 L 14 20 L 13 21 L 12 21 L 11 22 L 19 30 L 28 30 L 32 30 L 32 19 L 23 10 z "
+       transform="matrix(1 0 0 1 384.57143 515.798)" />
+    <path
+       style="fill:url(#linearGradient4463)"
+       id="rect4437"
+       d="M 17.5 8 C 16.286135 8 15.280979 8.855924 15.050781 10 L 9 10 L 9 11 L 15.050781 11 C 15.280979 12.144076 16.286135 13 17.5 13 C 18.713865 13 19.719021 12.144076 19.949219 11 L 23 11 L 23 10 L 19.949219 10 C 19.719021 8.855924 18.713865 8 17.5 8 z M 11.5 17 C 10.115007 17 9 18.115007 9 19.5 C 9 20.884993 10.115007 22 11.5 22 C 12.713854 22 13.719021 21.144068 13.949219 20 L 23 20 L 23 19 L 13.949219 19 C 13.719021 17.855932 12.713854 17 11.5 17 z M 11.5 18 C 12.330993 18 13 18.669007 13 19.5 C 13 20.330993 12.330993 21 11.5 21 C 10.669007 21 10 20.330993 10 19.5 C 10 18.669007 10.669007 18 11.5 18 z "
+       transform="matrix(1 0 0 1 384.57143 515.798)" />
+    <flowRoot
+       line-height="125%"
+       style="font-size:10;font-family:sans-serif"
+       id="flowRoot4170-3"
+       transform="matrix(1 0 0 1 389.57142 520.79803)">
+      <flowRegion
+         id="flowRegion4172-7">
+        <rect
+           width="27"
+           x="22"
+           y="3"
+           height="15"
+           id="rect4174-7" />
+      </flowRegion>
+      <flowPara
+         id="flowPara4176-8">Plasm</flowPara>
+    </flowRoot>
+  </g>
+</svg>
