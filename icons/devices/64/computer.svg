@@ -33,13 +33,13 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="true"
      inkscape:object-nodes="true"
-     inkscape:zoom="7.375"
-     inkscape:cx="26.363226"
-     inkscape:cy="11.384274"
+     inkscape:zoom="10.429825"
+     inkscape:cx="16.314058"
+     inkscape:cy="45.062832"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g4383">
     <inkscape:grid
        type="xygrid"
        id="grid4213" />
@@ -116,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -174,38 +174,40 @@
        id="g4383">
       <path
          style="fill:#ffffff;fill-opacity:0.78431396"
-         d="m 386.57144,503.798 19.99999,0 0,17 -19.99999,0 z"
-         id="rect3432" />
+         d="m 386.57144,503.798 21,-3e-5 0,17 -21,3e-5 z"
+         id="rect3432"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#0f9b71;fill-opacity:1"
          id="rect4160"
-         d="m 387.57143,504.79799 0,4 4.16667,0 0,-3 -1.04167,0 -1.04166,-1 z" />
+         d="m 388.57144,505.79797 0,4 4.16667,0 0,-3 -1.04167,0 -1.04166,-1 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#ff9955"
          id="rect4235"
-         d="m 395.57143,504.79799 0,5 4,0 0,-3 -2,-2 z" />
+         d="m 395.57144,505.79797 0,5 4,0 0,-3 -2,-2 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#d45500;fill-rule:evenodd"
          id="path4237"
-         d="m 397.57143,504.79799 2,2 -2,0 z" />
+         d="m 397.57144,505.79797 2,2 -2,0 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#3fba82;fill-opacity:1"
          id="rect4272"
-         d="m 387.57143,505.79799 5,0 0,4 -5,0 z" />
+         d="m 388.57144,506.79797 5,0 0,4 -5,0 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#71c837"
          id="path4275"
-         d="m 401.57143,504.79799 0,5 4,0 0,-3 -2,-2 z" />
+         d="m 401.57144,505.79797 0,5 4,0 0,-3 -2,-2 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#447821;fill-rule:evenodd"
          id="path4277"
-         d="m 403.57143,504.79799 2,2 -2,0 z" />
+         d="m 403.57144,505.79797 2,2 -2,0 z" />
     </g>
   </g>
 </svg>
