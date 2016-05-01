@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="44.614119"
-     inkscape:cy="22.745524"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="-49.295505"
+     inkscape:cy="-13.062973"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -131,10 +131,10 @@
        id="linearGradient4249"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99999968,0,0,1.0083327,1.4e-4,-4.19802)"
-       x1="419.33005"
-       y1="536.52533"
-       x2="419.33005"
-       y2="498.13367" />
+       x1="419.57144"
+       y1="536.52527"
+       x2="419.57144"
+       y2="503.798" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4697">
@@ -143,7 +143,7 @@
          id="stop4699" />
       <stop
          offset="1"
-         style="stop-color:#52b2ee;stop-opacity:1"
+         style="stop-color:#2980b9;stop-opacity:1"
          id="stop4701" />
     </linearGradient>
   </defs>

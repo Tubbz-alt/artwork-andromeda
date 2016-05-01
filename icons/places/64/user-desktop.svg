@@ -42,9 +42,9 @@
      id="namedview42"
      showgrid="true"
      inkscape:object-nodes="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="36.058077"
-     inkscape:cy="17.474553"
+     inkscape:zoom="10.429825"
+     inkscape:cx="33.704191"
+     inkscape:cy="36.403023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,7 +66,7 @@
          id="stop4699" />
       <stop
          offset="1"
-         style="stop-color:#52b2ee;stop-opacity:1"
+         style="stop-color:#2980b9;stop-opacity:1"
          id="stop4701" />
     </linearGradient>
     <linearGradient
@@ -77,8 +77,8 @@
        gradientTransform="matrix(1.2083329,0,0,1.588888,-77.118887,-310.68059)"
        x1="419.33005"
        y1="536.52533"
-       x2="419.33005"
-       y2="498.13367" />
+       x2="419.33008"
+       y2="503.798" />
   </defs>
   <g
      inkscape:label="Capa 1"

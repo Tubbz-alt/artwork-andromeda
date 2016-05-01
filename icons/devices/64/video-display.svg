@@ -33,8 +33,8 @@
      inkscape:bbox-nodes="true"
      inkscape:object-nodes="true"
      inkscape:zoom="5.6568543"
-     inkscape:cx="41.387407"
-     inkscape:cy="59.660305"
+     inkscape:cx="72.364991"
+     inkscape:cy="12.755472"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -91,10 +91,10 @@
        id="linearGradient4249"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99999968,0,0,1.0083327,1.391e-4,-6.1980202)"
-       x1="419.33005"
-       y1="536.52533"
-       x2="419.33005"
-       y2="498.13367" />
+       x1="419.57144"
+       y1="536.52527"
+       x2="419.57144"
+       y2="503.798" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4697">
@@ -103,7 +103,7 @@
          id="stop4699" />
       <stop
          offset="1"
-         style="stop-color:#52b2ee;stop-opacity:1"
+         style="stop-color:#2980b9;stop-opacity:1"
          id="stop4701" />
     </linearGradient>
   </defs>
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
