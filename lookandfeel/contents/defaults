@@ -2,13 +2,13 @@
 widgetStyle=breeze
 
 [kdeglobals][General]
-ColorScheme=Maia
+ColorScheme=Andromeda
 
 [kdeglobals][Icons]
-Theme=maia
+Theme=andromeda
 
 [plasmarc][Theme]
-name=maia
+name=andromeda
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
