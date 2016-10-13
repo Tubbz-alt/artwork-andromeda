@@ -2,6 +2,8 @@ project(AndromedaTheme)
 
 cmake_minimum_required(VERSION 3.0.0 FATAL_ERROR)
 
+set(INSTALL_SDDM_THEME TRUE)
+
 include(WriteBasicConfigVersionFile)
 include(FeatureSummary)
 
@@ -28,8 +30,13 @@ add_subdirectory(wallpapers)
 
 plasma_install_package(lookandfeel org.manjaro.andromeda.desktop look-and-feel lookandfeel)
 
-install(DIRECTORY lookandfeel/contents/loginmanager/ DESTINATION ${CMAKE_INSTALL_PREFIX}/share/sddm/themes/andromeda PATTERN "README.txt" EXCLUDE)
-install(DIRECTORY lookandfeel/contents/components DESTINATION ${CMAKE_INSTALL_PREFIX}/share/sddm/themes/andromeda PATTERN "README.txt" EXCLUDE)
+if (INSTALL_SDDM_THEME)
+# Install the login theme into the SDDM directory
+# Longer term we need to look at making SDDM load from look and feel somehow.. and allow copying at runtime
+    #NOTE this trailing slash is important to rename the directory
+    install(DIRECTORY sddm-theme/ DESTINATION ${KDE_INSTALL_FULL_DATADIR}/sddm/themes/andromeda PATTERN "README.txt" EXCLUDE PATTERN "components" EXCLUDE PATTERN "dummydata" EXCLUDE)
+    install(DIRECTORY lookandfeel/contents/components DESTINATION ${KDE_INSTALL_FULL_DATADIR}/sddm/themes/andromeda PATTERN "README.txt" EXCLUDE)
+endif()
 
 INSTALL(FILES colors/Andromeda.colors DESTINATION ${DATA_INSTALL_DIR}/color-schemes/)
 if(EXISTS ${CMAKE_SOURCE_DIR}/po AND IS_DIRECTORY ${CMAKE_SOURCE_DIR}/po)
